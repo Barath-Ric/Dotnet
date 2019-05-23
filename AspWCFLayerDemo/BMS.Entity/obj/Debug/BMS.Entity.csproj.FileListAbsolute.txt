@@ -1,0 +1,12 @@
+C:\C#\AspWCFLayerDemo\BMS.Entity\bin\Debug\BMS.Entity.dll
+C:\C#\AspWCFLayerDemo\BMS.Entity\bin\Debug\BMS.Entity.pdb
+C:\C#\AspWCFLayerDemo\BMS.Entity\obj\Debug\BMS.Entity.csprojAssemblyReference.cache
+C:\C#\AspWCFLayerDemo\BMS.Entity\obj\Debug\BMS.Entity.csproj.CoreCompileInputs.cache
+C:\C#\AspWCFLayerDemo\BMS.Entity\obj\Debug\BMS.Entity.dll
+C:\C#\AspWCFLayerDemo\BMS.Entity\obj\Debug\BMS.Entity.pdb
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMS.Entity\bin\Debug\BMS.Entity.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMS.Entity\bin\Debug\BMS.Entity.pdb
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMS.Entity\obj\Debug\BMS.Entity.csprojAssemblyReference.cache
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMS.Entity\obj\Debug\BMS.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMS.Entity\obj\Debug\BMS.Entity.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMS.Entity\obj\Debug\BMS.Entity.pdb

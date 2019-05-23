@@ -1,0 +1,5 @@
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.Entities\bin\Debug\Capgemini.PolicyEndorsement.Entities.dll
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.Entities\bin\Debug\Capgemini.PolicyEndorsement.Entities.pdb
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.Entities\obj\Debug\Capgemini.PolicyEndorsement.Entities.csproj.CoreCompileInputs.cache
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.Entities\obj\Debug\Capgemini.PolicyEndorsement.Entities.dll
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.Entities\obj\Debug\Capgemini.PolicyEndorsement.Entities.pdb

@@ -1,0 +1,160 @@
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\BMSWebApp.dll.config
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\BMSWebApp.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\BMSWebApp.pdb
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\csc.exe
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\csc.exe.config
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\csc.rsp
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\csi.exe
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\csi.exe.config
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\csi.rsp
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.AppContext.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.Console.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.IO.Compression.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.IO.Pipes.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.Security.Claims.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.ValueTuple.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.Xml.XPath.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\vbc.exe
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\vbc.exe.config
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\vbc.rsp
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\VBCSCompiler.exe
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\Antlr3.Runtime.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\AspNet.ScriptManager.bootstrap.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\AspNet.ScriptManager.jQuery.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\Newtonsoft.Json.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\System.Web.Optimization.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\WebGrease.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\System.Web.Optimization.xml
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\Newtonsoft.Json.xml
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\Antlr3.Runtime.pdb
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\C#\AspWCFLayerDemo\BMSWebApp\obj\Debug\BMSWebApp.csprojAssemblyReference.cache
+C:\C#\AspWCFLayerDemo\BMSWebApp\obj\Debug\BMSWebApp.csproj.CoreCompileInputs.cache
+C:\C#\AspWCFLayerDemo\BMSWebApp\obj\Debug\BMSWebApp.csproj.CopyComplete
+C:\C#\AspWCFLayerDemo\BMSWebApp\obj\Debug\BMSWebApp.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\obj\Debug\BMSWebApp.pdb
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\BMS.BLL.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\BMS.BookExceptions.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\BMS.DAL.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\BMS.Entity.dll
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\BMS.BLL.pdb
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\BMS.BookExceptions.pdb
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\BMS.DAL.pdb
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\BMS.DAL.dll.config
+C:\C#\AspWCFLayerDemo\BMSWebApp\bin\BMS.Entity.pdb
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\BMSWebApp.dll.config
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\BMSWebApp.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\BMSWebApp.pdb
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\csc.exe
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\csc.exe.config
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\csc.rsp
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\csi.exe
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\csi.exe.config
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\csi.rsp
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.AppContext.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.Console.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\vbc.exe
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\vbc.exe.config
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\vbc.rsp
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\Antlr3.Runtime.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\BMS.BLL.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\BMS.BookExceptions.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\BMS.DAL.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\BMS.Entity.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\Newtonsoft.Json.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\System.Web.Optimization.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\WebGrease.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\BMS.BLL.pdb
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\BMS.BookExceptions.pdb
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\BMS.DAL.pdb
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\BMS.DAL.dll.config
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\BMS.Entity.pdb
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\System.Web.Optimization.xml
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\Newtonsoft.Json.xml
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\obj\Debug\BMSWebApp.csprojAssemblyReference.cache
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\obj\Debug\BMSWebApp.csproj.CoreCompileInputs.cache
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\obj\Debug\BMSWebApp.csproj.CopyComplete
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\obj\Debug\BMSWebApp.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMSWebApp\obj\Debug\BMSWebApp.pdb

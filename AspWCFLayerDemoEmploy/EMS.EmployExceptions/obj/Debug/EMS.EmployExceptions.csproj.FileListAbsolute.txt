@@ -1,0 +1,12 @@
+C:\C#\AspWCFLayerDemoEmploy\EMS.EmployExceptions\bin\Debug\EMS.EmployExceptions.dll
+C:\C#\AspWCFLayerDemoEmploy\EMS.EmployExceptions\bin\Debug\EMS.EmployExceptions.pdb
+C:\C#\AspWCFLayerDemoEmploy\EMS.EmployExceptions\obj\Debug\EMS.EmployExceptions.csprojAssemblyReference.cache
+C:\C#\AspWCFLayerDemoEmploy\EMS.EmployExceptions\obj\Debug\EMS.EmployExceptions.csproj.CoreCompileInputs.cache
+C:\C#\AspWCFLayerDemoEmploy\EMS.EmployExceptions\obj\Debug\EMS.EmployExceptions.dll
+C:\C#\AspWCFLayerDemoEmploy\EMS.EmployExceptions\obj\Debug\EMS.EmployExceptions.pdb
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemoEmploy\EMS.EmployExceptions\bin\Debug\EMS.EmployExceptions.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemoEmploy\EMS.EmployExceptions\bin\Debug\EMS.EmployExceptions.pdb
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemoEmploy\EMS.EmployExceptions\obj\Debug\EMS.EmployExceptions.csprojAssemblyReference.cache
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemoEmploy\EMS.EmployExceptions\obj\Debug\EMS.EmployExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemoEmploy\EMS.EmployExceptions\obj\Debug\EMS.EmployExceptions.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemoEmploy\EMS.EmployExceptions\obj\Debug\EMS.EmployExceptions.pdb

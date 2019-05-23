@@ -1,0 +1,19 @@
+C:\C#\AspWCFLayerDemoEmploy\EMS.DAL\bin\Debug\EMS.DAL.dll.config
+C:\C#\AspWCFLayerDemoEmploy\EMS.DAL\bin\Debug\EMS.DAL.dll
+C:\C#\AspWCFLayerDemoEmploy\EMS.DAL\bin\Debug\EMS.DAL.pdb
+C:\C#\AspWCFLayerDemoEmploy\EMS.DAL\bin\Debug\EMS.EmployExceptions.dll
+C:\C#\AspWCFLayerDemoEmploy\EMS.DAL\bin\Debug\EMS.EmployExceptions.pdb
+C:\C#\AspWCFLayerDemoEmploy\EMS.DAL\obj\Debug\EMS.DAL.csproj.CoreCompileInputs.cache
+C:\C#\AspWCFLayerDemoEmploy\EMS.DAL\obj\Debug\EMS.DAL.csproj.CopyComplete
+C:\C#\AspWCFLayerDemoEmploy\EMS.DAL\obj\Debug\EMS.DAL.dll
+C:\C#\AspWCFLayerDemoEmploy\EMS.DAL\obj\Debug\EMS.DAL.pdb
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemoEmploy\EMS.DAL\bin\Debug\EMS.DAL.dll.config
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemoEmploy\EMS.DAL\bin\Debug\EMS.DAL.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemoEmploy\EMS.DAL\bin\Debug\EMS.DAL.pdb
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemoEmploy\EMS.DAL\bin\Debug\EMS.EmployExceptions.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemoEmploy\EMS.DAL\bin\Debug\EMS.EmployExceptions.pdb
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemoEmploy\EMS.DAL\obj\Debug\EMS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemoEmploy\EMS.DAL\obj\Debug\EMS.DAL.csproj.CopyComplete
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemoEmploy\EMS.DAL\obj\Debug\EMS.DAL.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemoEmploy\EMS.DAL\obj\Debug\EMS.DAL.pdb
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemoEmploy\EMS.DAL\obj\Debug\EMS.DAL.csprojAssemblyReference.cache

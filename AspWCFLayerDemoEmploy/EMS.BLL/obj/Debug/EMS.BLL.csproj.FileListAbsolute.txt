@@ -1,0 +1,24 @@
+C:\C#\AspWCFLayerDemoEmploy\EMS.BLL\bin\Debug\EMS.BLL.dll
+C:\C#\AspWCFLayerDemoEmploy\EMS.BLL\bin\Debug\EMS.BLL.pdb
+C:\C#\AspWCFLayerDemoEmploy\EMS.BLL\bin\Debug\EMS.DAL.dll
+C:\C#\AspWCFLayerDemoEmploy\EMS.BLL\bin\Debug\EMS.EmployExceptions.dll
+C:\C#\AspWCFLayerDemoEmploy\EMS.BLL\bin\Debug\EMS.DAL.pdb
+C:\C#\AspWCFLayerDemoEmploy\EMS.BLL\bin\Debug\EMS.DAL.dll.config
+C:\C#\AspWCFLayerDemoEmploy\EMS.BLL\bin\Debug\EMS.EmployExceptions.pdb
+C:\C#\AspWCFLayerDemoEmploy\EMS.BLL\obj\Debug\EMS.BLL.csprojAssemblyReference.cache
+C:\C#\AspWCFLayerDemoEmploy\EMS.BLL\obj\Debug\EMS.BLL.csproj.CoreCompileInputs.cache
+C:\C#\AspWCFLayerDemoEmploy\EMS.BLL\obj\Debug\EMS.BLL.csproj.CopyComplete
+C:\C#\AspWCFLayerDemoEmploy\EMS.BLL\obj\Debug\EMS.BLL.dll
+C:\C#\AspWCFLayerDemoEmploy\EMS.BLL\obj\Debug\EMS.BLL.pdb
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemoEmploy\EMS.BLL\bin\Debug\EMS.BLL.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemoEmploy\EMS.BLL\bin\Debug\EMS.BLL.pdb
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemoEmploy\EMS.BLL\bin\Debug\EMS.DAL.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemoEmploy\EMS.BLL\bin\Debug\EMS.EmployExceptions.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemoEmploy\EMS.BLL\bin\Debug\EMS.DAL.pdb
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemoEmploy\EMS.BLL\bin\Debug\EMS.DAL.dll.config
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemoEmploy\EMS.BLL\bin\Debug\EMS.EmployExceptions.pdb
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemoEmploy\EMS.BLL\obj\Debug\EMS.BLL.csprojAssemblyReference.cache
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemoEmploy\EMS.BLL\obj\Debug\EMS.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemoEmploy\EMS.BLL\obj\Debug\EMS.BLL.csproj.CopyComplete
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemoEmploy\EMS.BLL\obj\Debug\EMS.BLL.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemoEmploy\EMS.BLL\obj\Debug\EMS.BLL.pdb

@@ -1,0 +1,23 @@
+C:\C#\AspWCFLayerDemo\BMS.DAL\bin\Debug\BMS.DAL.dll.config
+C:\C#\AspWCFLayerDemo\BMS.DAL\bin\Debug\BMS.DAL.dll
+C:\C#\AspWCFLayerDemo\BMS.DAL\bin\Debug\BMS.DAL.pdb
+C:\C#\AspWCFLayerDemo\BMS.DAL\bin\Debug\BMS.BookExceptions.dll
+C:\C#\AspWCFLayerDemo\BMS.DAL\bin\Debug\BMS.Entity.dll
+C:\C#\AspWCFLayerDemo\BMS.DAL\bin\Debug\BMS.BookExceptions.pdb
+C:\C#\AspWCFLayerDemo\BMS.DAL\bin\Debug\BMS.Entity.pdb
+C:\C#\AspWCFLayerDemo\BMS.DAL\obj\Debug\BMS.DAL.csproj.CoreCompileInputs.cache
+C:\C#\AspWCFLayerDemo\BMS.DAL\obj\Debug\BMS.DAL.csproj.CopyComplete
+C:\C#\AspWCFLayerDemo\BMS.DAL\obj\Debug\BMS.DAL.dll
+C:\C#\AspWCFLayerDemo\BMS.DAL\obj\Debug\BMS.DAL.pdb
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMS.DAL\bin\Debug\BMS.DAL.dll.config
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMS.DAL\bin\Debug\BMS.DAL.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMS.DAL\bin\Debug\BMS.DAL.pdb
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMS.DAL\bin\Debug\BMS.BookExceptions.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMS.DAL\bin\Debug\BMS.Entity.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMS.DAL\bin\Debug\BMS.BookExceptions.pdb
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMS.DAL\bin\Debug\BMS.Entity.pdb
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMS.DAL\obj\Debug\BMS.DAL.csprojAssemblyReference.cache
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMS.DAL\obj\Debug\BMS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMS.DAL\obj\Debug\BMS.DAL.csproj.CopyComplete
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMS.DAL\obj\Debug\BMS.DAL.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMS.DAL\obj\Debug\BMS.DAL.pdb

@@ -1,0 +1,13 @@
+C:\C#\AspWCFLayerDemo\BMS.WCFService\bin\BMS.WCFService.dll.config
+C:\C#\AspWCFLayerDemo\BMS.WCFService\bin\BMS.WCFService.dll
+C:\C#\AspWCFLayerDemo\BMS.WCFService\bin\BMS.WCFService.pdb
+C:\C#\AspWCFLayerDemo\BMS.WCFService\obj\Debug\BMS.WCFService.csproj.CoreCompileInputs.cache
+C:\C#\AspWCFLayerDemo\BMS.WCFService\obj\Debug\BMS.WCFService.dll
+C:\C#\AspWCFLayerDemo\BMS.WCFService\obj\Debug\BMS.WCFService.pdb
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMS.WCFService\bin\BMS.WCFService.dll.config
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMS.WCFService\bin\BMS.WCFService.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMS.WCFService\bin\BMS.WCFService.pdb
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMS.WCFService\obj\Debug\BMS.WCFService.csproj.CoreCompileInputs.cache
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMS.WCFService\obj\Debug\BMS.WCFService.dll
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMS.WCFService\obj\Debug\BMS.WCFService.pdb
+C:\Users\Abridge Solutions\Desktop\AspWCFLayerDemo\BMS.WCFService\obj\Debug\BMS.WCFService.csprojAssemblyReference.cache

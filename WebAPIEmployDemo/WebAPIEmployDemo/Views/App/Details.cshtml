@@ -1,0 +1,50 @@
+﻿@model WebAPIEmployDemo.Models.emp
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>emp</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.nam)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nam)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.dept)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.dept)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.desig)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.desig)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.basic)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.basic)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Empno }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

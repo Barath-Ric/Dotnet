@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/EMS.WCFService" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/EMS.WCFService" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="Employ">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Basic" type="xs:int" />
+      <xs:element minOccurs="0" name="Department" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Designation" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Empno" type="xs:int" />
+      <xs:element minOccurs="0" name="Name" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Employ" nillable="true" type="tns:Employ" />
+  <xs:complexType name="ArrayOfEmploy">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Employ" nillable="true" type="tns:Employ" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfEmploy" nillable="true" type="tns:ArrayOfEmploy" />
+</xs:schema>
